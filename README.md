@@ -1,7 +1,7 @@
 # explore
-estudos para desenvolvimento web
+Desenvolvimento web Full Stack
 
-Tratamento de dados
+Tratamento de dados usando JS
   - Type conversion (typecasting) vs Type coersion
   - transforma Strings em Números e Números em Strings
   - Contar quantos caracteres tem uma palavra e quantos Dígitos tem um número
