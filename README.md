@@ -1,6 +1,7 @@
 # explore
 Desenvolvimento web Full Stack
 
-Tratamento de dados usando JS
+- Tratamento de dados usando JS
 Expressões e operadores
+- Expressões e Operadores
 
